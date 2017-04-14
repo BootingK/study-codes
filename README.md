@@ -6,7 +6,7 @@
   
   
 <script type="text/javascript" src="http://download.skyp...k.js"></script>
-<a href="skype:teste?call"><img src="http://download.skyp...rent_34x34.png" style="border: none;" width="34" height="34" alt="Skype Me™!" /></a>
+<a href="skype:booting.killer?chat"><img src="http://download.skyp...rent_34x34.png" style="border: none;" width="34" height="34" alt="Skype Me™!" /></a>
   
   
   </center>
