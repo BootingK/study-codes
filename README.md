@@ -5,17 +5,8 @@
   <p>Os exercícios são principalmente lançado no grupo do Discord,onde há um comunidade que se ajuda em várias linguagens,caso queria entrar,só acessar o link</p>
   
   
-  <a href="https://discord.gg/BX4KS4m">Discord</a>
-  <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
-  <div id="SkypeButton_Call_booting.killer_1">
- <script type="text/javascript">
- Skype.ui({
- "name": "chat",
- "element": "SkypeButton_Call_booting.killer_1",
- "participants": ["booting.killer"]
- });
- </script>
-</div>
+<script type="text/javascript" src="http://download.skyp...k.js"></script>
+<a href="skype:teste?call"><img src="http://download.skyp...rent_34x34.png" style="border: none;" width="34" height="34" alt="Skype Me™!" /></a>
   
   
   </center>
